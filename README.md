@@ -1,3 +1,3 @@
-# MyPackage2
+# NetworkPackage
 
 A description of this package.

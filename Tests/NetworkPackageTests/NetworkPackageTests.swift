@@ -1,11 +1,11 @@
 import XCTest
-@testable import MyPackage2
+@testable import NetworkPackage
 
-final class MyPackage2Tests: XCTestCase {
+final class NetworkPackageTests: XCTestCase {
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(MyPackage2().text, "Hello, World!")
+        XCTAssertEqual(NetworkPackage().text, "Hello, World!")
     }
 }
